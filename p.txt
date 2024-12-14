@@ -1,5 +1,9 @@
-merge
-Ichanges from remote rep
+
+merge changes from remoterep
 merge from remote repI
+
+merge local rep
+local rep changes
+
 commit
 new line
