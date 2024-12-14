@@ -1,5 +1,15 @@
 new line
+remote changes
 
-local rep chnafge
+<<<<<<< HEAD
 fafddgfg
+=======
+git change
+
+
+
+
+
+
+>>>>>>> fbb735f26cf23537196fec90d8e296a3023d0b41
 new line from local repositry
