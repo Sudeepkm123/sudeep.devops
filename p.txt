@@ -1,3 +1,5 @@
-local rep changes
+merge
+Ichanges from remote rep
+>>>>>>> 8d8fef25e504a3d5f28c16ba607a477dc9815d72
 commit
 new line
